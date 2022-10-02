@@ -5,6 +5,7 @@ Abstract— Rotating machinery is a machine with a rotating component to do the 
 we proposed two works
 
 •	Fault Diagnosis: Feature extraction of Homogenous sensing data using FFT and fed to random forest for fault diagnosis.
+
 •	Collaborative Learning: SoftMax based fusion method is utilized for composite fault diagnose.
 
 Please check this paper for more information
