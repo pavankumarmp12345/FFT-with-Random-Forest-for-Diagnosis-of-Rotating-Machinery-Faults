@@ -1,0 +1,1 @@
+# FFT-with-Random-Forest-for-Diagnosis-of-Rotating-Machinery-Faults
